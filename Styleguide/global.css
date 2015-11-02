@@ -47,10 +47,6 @@ img, object, audio, video, svg {
 	line-height: 1.875;
 /*	font-family: AdobeGaramondProRegular, Georgia, serif;
 */	color: #5a5a5a;
-	border-left: 1px solid;
-	border-right: 1px solid;
-	border-color: #ddd;
-	border-color: rgba(0,0,0,0.13);
 }
 h1 {
 	font-family: GriffithGothic Regular, Helvetica, Georgia, serif;
