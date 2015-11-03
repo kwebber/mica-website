@@ -81,6 +81,7 @@ h3 {
 	letter-spacing: .06em;
 	width: 250px;
 	text-align: center;
+	margin-top: 70px;
 }
 h4 {
 	font-family: GriffithGothic Regular, Cambria, Georgia, serif;
@@ -873,6 +874,8 @@ div.home-about{
 	background-color: #fff;
 	color: #5a5a5a;
 	box-shadow: 4px 4px  #e0e0e0;
+	margin: -20px auto 0 auto;
+	z-index: 30000;
 	
 }
 
