@@ -221,6 +221,10 @@
 	padding-top: 193px;
 }
 
+.home-welcome > img {
+	display: block;
+}
+
 /*.home-welcome-text{
 	font-size: 86pt;
 	font-family: GriffithGothic Regular, Helvetica, Georgia, serif;

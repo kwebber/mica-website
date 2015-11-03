@@ -30,6 +30,7 @@ section, article, nav, aside {
 img, object, audio, video, svg {
 	max-width: 100%;
 }
+
 /* @end Reset */
 
 /* @group Typography */
@@ -874,9 +875,11 @@ div.home-about{
 	background-color: #fff;
 	color: #5a5a5a;
 	box-shadow: 4px 4px  #e0e0e0;
-	margin: -20px auto 0 auto;
-	z-index: 30000;
-	
+	margin-top: -90px;
+	position: absolute;
+	width: 80%;
+	left: 10%;
+
 }
 
 div.home-about > p {
