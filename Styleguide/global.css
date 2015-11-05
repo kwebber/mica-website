@@ -935,6 +935,7 @@ div.blog-date > p {
 	text-align: center;
 	line-height: 28px;
 	text-transform: uppercase;
+	position: relative;
 	
 }
 
