@@ -123,7 +123,6 @@
 .preview-item {
 	width: 33%;
 	min-width: 350px;
-	height: 277px;
 	display: inline-block;
 	background-color: #fff;
 	vertical-align: bottom;
@@ -502,7 +501,7 @@
 
 }
 
-/*.post-date {
+.post-date {
 	overflow: hidden;
 	background-color: #fff;
 	color:#5a5a5a;
@@ -512,8 +511,8 @@
 	min-height: 37px;
 	min-width: 143px;
 	width: 25%;
-	margin: 0 auto;
-	left: 130px;
+/*	margin: 0 auto;
+*/	left: 130px;
 	right: 0;
 	top: 245px;
 	display: inline-block;
@@ -524,9 +523,9 @@
 /*	position:absolute;
 */	text-align:center;
 	text-transform: uppercase;
-	
+
 }
-*/
+
 .post-date p {
 	font-family: 
 }
