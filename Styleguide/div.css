@@ -46,8 +46,13 @@
 	border-bottom: 3px solid #e0e0e0;
 	min-height: 50px;
 	top: 100px;
-
 }
+
+.search-white {
+	position: absolute;
+	float: right;
+/*	width: 100%;
+*/}
 
 .search-icon {
 	float: right;
@@ -665,6 +670,7 @@
 	.title-subtitle > h1 {
 		font-size: 1.3em;
 		line-height: 1.125;
+		padding-top: 130px;
 		margin-bottom: 0.3em;
 		letter-spacing: .12em;
 	}
@@ -680,7 +686,44 @@
 
 }
 
+@media screen and (max-width: 480px) {
+
+	#cssmenu {
+		margin-top: -9000px;
 	}
+
+	.head-menu {
+		background-color: #6ec6b7;
+		height: 50px;
+	}
+
+	.logo {
+		margin: 0 auto;
+		position: relative;
+		display: block;
+/*		top: 50%;
+		left: 50%;
+*/		width: 80px;
+		padding-top: 10px; 
+	}
+
+	.search {
+		display: none;
+	}
+
+	.home-welcome {
+		padding-top: 50px;
+		width: 100%;
+	}
+
+	body {
+		margin: 0;
+		padding: 0;
+	}
+
+
+}
+
 
 
 
