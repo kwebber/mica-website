@@ -30,27 +30,6 @@
 
 }
 
-@media screen and (max-width: 1050px) {
-	.logo {
-		margin: 0 auto;
-		position: relative;
-		display: block;
-/*		top: 50%;
-		left: 50%;
-*/		width: 150px;
-	}
-
-	.social {
-		margin: 0 auto ;
-		position: relative;
-		display: block;
-		right: auto;
-	}
-
-	.external-links {
-		display: none;
-	}
-}
 
 
 .nav {
@@ -657,6 +636,29 @@
 	*/
 
 
+@media screen and (max-width: 1050px) {
+	.logo {
+		margin: 0 auto;
+		position: relative;
+		display: block;
+/*		top: 50%;
+		left: 50%;
+*/		width: 150px;
+	}
+
+	.social {
+		margin: 10px auto ;
+		position: relative;
+		display: block;
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+
+	.external-links {
+		display: none;
+	}
+}
 
 
 

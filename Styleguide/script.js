@@ -22,7 +22,7 @@
                 }
             });
 
-            //cssmenu.find('li ul').parent().addClass('has-sub');
+            // cssmenu.find('li ul').parent().addClass('has-sub');
 
             multiTg = function () {
                 cssmenu.find(".has-sub").prepend('<span class="submenu-button"></span>');
