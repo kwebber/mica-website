@@ -660,6 +660,27 @@
 	}
 }
 
+@media screen and (max-width: 780px) {
+
+	.title-subtitle > h1 {
+		font-size: 1.3em;
+		line-height: 1.125;
+		padding-top: 70px;
+		margin-bottom: 0.3em;
+		letter-spacing: .12em;
+	}
+
+
+	.title-subtitle > h2 {
+		font-size: 1em;
+		line-height: 1.2;
+		padding-top: 0.8333em;
+		margin-bottom: 0.7em;
+		letter-spacing: .120em;
+	}
+
+}
+
 
 
 
