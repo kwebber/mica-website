@@ -81,7 +81,7 @@
 	top: 560px;
 }*/
 
-.about2 {
+.about {
 	overflow: hidden;
 	background-color: #fff;
 	color:#5a5a5a;
@@ -665,7 +665,6 @@
 	.title-subtitle > h1 {
 		font-size: 1.3em;
 		line-height: 1.125;
-		padding-top: 70px;
 		margin-bottom: 0.3em;
 		letter-spacing: .12em;
 	}
@@ -680,6 +679,8 @@
 	}
 
 }
+
+	}
 
 
 
