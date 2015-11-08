@@ -41,10 +41,10 @@
 	}
 
 	.social {
-		margin: 0 auto;
+		margin: 0 auto ;
 		position: relative;
 		display: block;
-		left: 50%;
+		right: auto;
 	}
 
 	.external-links {
@@ -435,8 +435,8 @@
 	color: #6ec6b7;
 	letter-spacing: .12em;
 	text-align: center;
-
 }
+
 
 .title-subtitle > h2 {
 	font-family: GriffithGothic , Helvetica, Georgia, serif;

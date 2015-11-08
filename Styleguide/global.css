@@ -518,7 +518,8 @@ a.control:active {
 }
 #cssmenu #menu-button {
 	font-family: GriffithGothic Regular;
-  display: none;
+ 	display: none;
+ 	float: left;
 }
 #cssmenu {
   background: #6ec6b7;
@@ -707,7 +708,7 @@ a.control:active {
 }
 @media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1050px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1050px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1050px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1050px), only screen and (min-resolution: 192dpi) and (max-width: 1050px), only screen and (min-resolution: 2dppx) and (max-width: 1050px) {
   #cssmenu {
-    width: 100%;
+    width: 90%;
   }
   #cssmenu ul {
     width: 100%;
