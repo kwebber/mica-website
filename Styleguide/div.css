@@ -541,8 +541,6 @@
 
 }
 
-
-
 .post-unit-img {
 	position: relative;
 }
@@ -601,6 +599,12 @@
 	display: inline-block;
 	float: right;
 
+}
+
+.icon-tumblr {
+	color: #6ec6b7;
+	font-size: 20px;
+	padding-right: 15px;
 }
 
 .icon-behance {
