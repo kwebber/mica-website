@@ -119,10 +119,11 @@
 	height: 225px;
 }
 
-.preview {
+.preview-row {
 	width: 100%;
-	background-color: #5a5a5a;
-	height: 300px;
+	background-color: #f5f7f7;
+	text-align: center;
+	overflow: hidden;
 }
 
 .preview-item {
@@ -131,6 +132,7 @@
 	display: inline-block;
 	background-color: #fff;
 	vertical-align: bottom;
+	margin-top: 40px;
 }
 
 .post {
@@ -467,6 +469,7 @@
 	width: 100%;
 	background-color: #f5f7f7;
 	overflow: hidden;
+	text-align: center;
 }
 
 .post-item-date p {
@@ -504,6 +507,7 @@
 	vertical-align: top;
 	padding-left: 15px;
 	padding-right: 15px;
+	margin-top: 30px;
 }
 
 .post-unit-content {
@@ -771,6 +775,10 @@
 		margin-top: -85px;
 		margin-right: 10px;
 		display: inline-block;
+	}
+
+	.preview-item {
+		width: 100%;
 	}
 
 }

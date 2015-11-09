@@ -213,8 +213,8 @@ a {
 a:link,
 a:visited {
 	color: #6ec6b7;
-	margin-right: 10px;
-/*	border-bottom-color: #5a5a5a;
+/*	margin-right: 10px;
+*//*	border-bottom-color: #5a5a5a;
 */}
 
 a[href]:hover,
