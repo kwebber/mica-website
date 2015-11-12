@@ -3,8 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Pattern Primer</title>
-<link rel="stylesheet" href="global.css">
-<link rel="stylesheet" href="div.css">
+<link rel="stylesheet" href="main.css">
 <style>
 .pattern {
     clear: both;

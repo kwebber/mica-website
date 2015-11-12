@@ -203,6 +203,7 @@ a {
 	/*border-bottom-style: dotted;*/
 	border-bottom-width: 1px;
 	white-space: pre-wrap;
+	color: #5a5a5a;
 }
 a:link,
 a:visited {
@@ -211,12 +212,10 @@ a:visited {
 
 a[href]:hover,
 a[href]:focus {
-	color: #c03;
-	border-bottom-color: #c03;
+	color: #6ec6b7;
 }
 a:active {
-	color: #900;
-	border-bottom-color: #900;
+	color: #6ec6b7;
 }
 .logo a, h1 a, h2 a, h3 a {
 	border: none;
