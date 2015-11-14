@@ -1581,16 +1581,16 @@ div.blog-date > p {
 	color: #fff;
 	padding-left: 20px;
 }
-.nav a {
-	
-}
-.nav a:hover {
-	/*font-weight: 700;*/
-	border-bottom: 2px solid #fff;
+	.nav a,
+	.nav a:link,
+	.nav a:hover,
+	.nav a:visited,
+	.nav a:active {
+	 color: #fff;
 }
 
-.nav a:visited {
-	color: #fff;
+.nav a:hover {
+	border-bottom: 2px solid #fff;
 }
 
 .nav-toggle {
@@ -1677,14 +1677,16 @@ div.blog-date > p {
   	margin-top: 39px;
 }
 
-  .nav li a:hover {
-  	color: #6ec6b7;
+.nav a,
+.nav a:link,
+.nav a:visited,
+.nav a:active {
+ color: #5a5a5a;
 }
 
-.nav li a:visited {
-	color: #5a5a5a;
+.nav a:hover {
+  color: #6ec6b7;
 }
-
   .nav.is-active {
     position: absolute;
     top: 100%;
