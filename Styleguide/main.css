@@ -1581,7 +1581,9 @@ div.blog-date > p {
 	color: #fff;
 	padding-left: 20px;
 }
-
+.nav a {
+	
+}
 .nav a:hover {
 	/*font-weight: 700;*/
 	border-bottom: 2px solid #fff;
