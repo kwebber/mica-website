@@ -1578,16 +1578,16 @@ div.blog-date > p {
 	font-size: 16px;
  	display: inline-block;
 	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
-	color: #ffffff;
+	color: #fff;
 	padding-left: 20px;
 }
 
-.nav li a:hover {
+.nav a:hover {
 	/*font-weight: 700;*/
 	border-bottom: 2px solid #fff;
 }
 
-.nav li a:visited {
+.nav a:visited {
 	color: #fff;
 }
 
