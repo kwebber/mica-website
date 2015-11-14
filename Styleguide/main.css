@@ -1446,6 +1446,7 @@ div.blog-date > p {
 
 @media screen and (max-width: 1050px) {
 	.logo {
+		padding-top: 40px;
 		margin: 0 auto;
 		position: relative;
 		display: block;
@@ -1559,7 +1560,9 @@ div.blog-date > p {
   position: relative;
   float: right;
   z-index: 10;
-  padding: 20px;
+  padding-top: 55px;
+  padding-bottom: 0;
+  padding-right: 55px;
   background: #6ec6b7;
 }
 
@@ -1575,7 +1578,7 @@ div.blog-date > p {
 	font-size: 16px;
  	display: inline-block;
 	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
-	color: #fff;
+	color: #ffffff;
 	padding-left: 20px;
 }
 
@@ -1588,13 +1591,17 @@ div.blog-date > p {
 	color: #fff;
 }
 
+/*.top-nav {
+	width: 30px;
+}
+*/
 .nav-toggle {
   display: none;
 }
 
 .overlay {
   position: fixed;
-  top: 0;
+  top: 140px;
   right: 0;
   bottom: 0;
   left: 0;
@@ -1638,10 +1645,14 @@ div.blog-date > p {
 	font-size: 25px;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 1050px) {
+
 
 .masthead {
 	float: left;
+	padding-top: 40px;
+	width: 30px;
+	padding-left: 15px;
 }
 
   .nav-toggle {
@@ -1659,7 +1670,7 @@ div.blog-date > p {
     display: block;
     background-color: #fff;
     border: 2px solid #6ec6b7;
-    border-top: 0;
+    border: 0;
     width: 140px;
   }
 
@@ -1675,8 +1686,6 @@ div.blog-date > p {
 	color: #5a5a5a;
 }
 
-
-  
   .nav.is-active {
     position: absolute;
     top: 100%;
@@ -1689,5 +1698,14 @@ div.blog-date > p {
     z-index: 5;
     opacity: 1;
   }
+}
+
+@media screen and (max-width: 480px) {
+
+	.masthead {
+		height: 50px;
+		padding-top: 0;
+		padding-left: 0;
+	}
 }
 
