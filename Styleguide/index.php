@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Pattern Primer</title>
+<script src="https://use.fonticons.com/e8e95619.js"></script>
 <link rel="stylesheet" href="main.css">
 <style>
 .pattern {
@@ -22,6 +23,8 @@
     width: 90%;
 }
 </style>
+<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+<script src="new-menu.js"></script>
 </head>
 <body>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
