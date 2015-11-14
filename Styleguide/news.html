@@ -7,6 +7,8 @@
     <title>News Page</title>
     <script src="https://use.fonticons.com/e8e95619.js"></script>
     <link rel="stylesheet" href="main.css"></link>
+    <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+    <script src="new-menu.js"></script>
 </head>
 <body>
 
@@ -16,27 +18,22 @@
 
             <div class="head-menu">
 
-                <div id='cssmenu'>
+                <div class="masthead">
+                    <nav class="top-nav">
+                        <button class="nav-toggle" id="js-nav-toggle"><i class="icon icon-bars"></i></button>
+                        <ul class="nav" id="js-nav-menu">
+                            <li><a href="#">Events</a></li>
+                            <li><a href="#">News</a></li>
+                            <li><a href="#">Profiles</a></li>
+                            <li><a href="#">Experiences</a></li>
+                            <li><a href="#">Resources</a></li>
+                            <li><a href="#">Dialogue</a></li>
 
-                    <ul>
-                        <li><a href='#'><span>Events</span></a></li>
-                        <li><a href='#'><span>News</span></a></li>
-                        <li><a href='#'><span>Profiles</span></a>
-                            <ul>
-                                <li><a href='#'>Student</a>
-                                    <li><a href='#'>Faculty</a>
-                                    </ul>
-                                </li>
-                                <li><a href='#'><span>Experiences</span></a></li>
-                                <li><a href='#'><span>Resources</span></a>
-                                    <ul>
-                                        <li><a href='#'>Vendors</a></li>
-                                        <li><a href='#'>Other</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href='#'><span>Dialogue</span></a></li>
-                            </ul>
-                        </div>
+
+                        </ul>
+                    </nav>
+                </div>
+                <div class="overlay"></div>
 
                         <div class="logo">
                             <img src="img/logo_mica_site.png">

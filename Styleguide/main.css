@@ -50,7 +50,7 @@ img, object, audio, video, svg {
 }
 
 h1 {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: black;
 	font-size: 1.563em;
 	line-height: 1.125;
@@ -60,7 +60,7 @@ h1 {
 	letter-spacing: .12em;
 }
 h2 {
-	font-family: GriffithGothic , Helvetica, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: light;
 	font-size: 1.563em;
 	line-height: 1.2;
@@ -70,7 +70,7 @@ h2 {
 	letter-spacing: .120em
 }
 h3 {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: black;
 	font-size: 1.563em;
 	line-height: 1.4;
@@ -83,7 +83,7 @@ h3 {
 	margin-top: 30px;
 }
 h4 {
-	font-family: GriffithGothic Regular, Cambria, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: bold;
 	font-size: 1.250em;
 	line-height: 1.4;
@@ -94,7 +94,7 @@ h4 {
 	text-align: center;
 }
 h5 {
-	font-family: GriffithGothic Regular, Cambria, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: bold;
 	font-size: 21px;
 	line-height: 1.6667;
@@ -128,7 +128,7 @@ blockquote {
 	border-top: 0.1em solid;
 	border-bottom: 0.1em solid;
 	padding: 0 1em;
-	font-family: Palatino, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-style: italic;
 	font-size: 1.25em;
 	line-height: 1.5;
@@ -145,7 +145,7 @@ blockquote em {
 	font-style: normal;
 }
 figcaption {
-	font-family: Palatino, Cambria, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-style: italic;
 	font-size: 0.857em;
 	line-height: 1.4286;
@@ -263,7 +263,7 @@ input[type="button"],
 input[type="submit"] {
 	width: auto;
 	text-align: center;
-	font-family: GriffithGothic Regular, 'Helvetica Neue', Arial, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
@@ -882,7 +882,7 @@ div.home-about > p {
 }
 
 .search-text {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: 400;
 	color: #5a5a5a;
 	letter-spacing: .12em;
@@ -891,7 +891,7 @@ div.home-about > p {
 }
 
 .external-links {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: 16px;
 	color: #5a5a5a;
 	letter-spacing: .12em;
@@ -912,7 +912,7 @@ div.blog-date{
 }
 
 div.blog-date > p {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: 14.2px;
 	letter-spacing: .12em;
 	margin: 5px 20px;
@@ -971,7 +971,7 @@ div.blog-date > p {
 }
 
 .search > div > input[type="text"] {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: 400;
 	color: #5a5a5a;
 	letter-spacing: .12em;
@@ -1082,7 +1082,7 @@ div.blog-date > p {
 	text-align: center;
 	font-size: 15px;
 	margin: 20px;
-	font-family: AdobeGaramondProRegular, Georgia, serif;
+	font-family: AdobeGaramondProRegular, serif;
 }
 
 .post-interior > h4 {
@@ -1213,7 +1213,7 @@ div.blog-date > p {
 	text-align: center;
 	color: #fff;
 	font-size: 24px;
-	font-family: GriffithGothic Regular, Helvetica, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: 900;
 	margin-top: 20px;
 	margin-bottom: 15px;
@@ -1235,7 +1235,7 @@ div.blog-date > p {
 }
 
 .home-title-subtitle > h1 {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: black;
 	font-size: 1.563em;
 	line-height: 1.125;
@@ -1247,7 +1247,7 @@ div.blog-date > p {
 }
 
 .title-subtitle > h1 {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: black;
 	font-size: 1.563em;
 	line-height: 1.125;
@@ -1259,7 +1259,7 @@ div.blog-date > p {
 }
 
 .home-title-subtitle > h2 {
-	font-family: GriffithGothic , Helvetica, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: light;
 	font-size: 1.563em;
 	line-height: 1.2;
@@ -1271,7 +1271,7 @@ div.blog-date > p {
 }
 
 .title-subtitle > h2 {
-	font-family: GriffithGothic , Helvetica, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: light;
 	font-size: 1.563em;
 	line-height: 1.2;
@@ -1307,7 +1307,7 @@ div.blog-date > p {
 }
 
 .post-item-title {
-	font-family: GriffithGothic Regular, Cambria, Georgia, serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: bold;
 	font-size: 1.250em;
 	line-height: 1.4;
@@ -1357,7 +1357,7 @@ div.blog-date > p {
 	text-transform: uppercase;
 	font-size: 15px;
 	margin: 20px;
-	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 }
 
 .sm-pattern {
@@ -1422,7 +1422,7 @@ div.blog-date > p {
 	position: relative;
 	text-align:center;
 	text-transform: uppercase;
-	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	margin: -1em auto;
 	padding: 5px;
 	width: 50%;
@@ -1433,7 +1433,7 @@ div.blog-date > p {
 }
 
 .post-date > p {
-	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-weight: 14.2px;
 	letter-spacing: .12em;
 	margin: 5px 20px;
@@ -1577,7 +1577,7 @@ div.blog-date > p {
 	letter-spacing: 1px;
 	font-size: 16px;
  	display: inline-block;
-	font-family: GriffithGothic Regular, Helvetica, Georgia, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	color: #ffffff;
 	padding-left: 20px;
 }
@@ -1591,10 +1591,6 @@ div.blog-date > p {
 	color: #fff;
 }
 
-/*.top-nav {
-	width: 30px;
-}
-*/
 .nav-toggle {
   display: none;
 }
@@ -1614,7 +1610,7 @@ div.blog-date > p {
 .nav-toggle {
 	width: auto;
 	text-align: center;
-	font-family: GriffithGothic Regular, 'Helvetica Neue', Arial, sans-serif;
+	font-family: GriffithGothic, Helvetica, Georgia, sans-serif;
 	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
@@ -1627,16 +1623,13 @@ div.blog-date > p {
 
 }
 .nav-toggle:hover,
+.nav-toggle:active,
 .nav-toggle:focus {
 	/*outline: none;*/
 	background-color: transparent;
 	color: #6ec6b7;
+	border-color: transparent;
 
-}
-.nav-toggle:active, {
-	background-color: transparent;
-	border: none;
-	color: #6ec6b7;
 }
 
 
@@ -1670,12 +1663,16 @@ div.blog-date > p {
     display: block;
     background-color: #fff;
     border: 2px solid #6ec6b7;
-    border: 0;
+    border-top:0;
+    /*border: 0;*/
     width: 140px;
+    padding: 5px;
+    padding-left: 20px;
   }
 
   .nav li:first-child {
   	border-top: 2px solid #6ec6b7;
+  	margin-top: 39px;
 }
 
   .nav li a:hover {
@@ -1707,5 +1704,14 @@ div.blog-date > p {
 		padding-top: 0;
 		padding-left: 0;
 	}
+
+	.overlay {
+		top: 50px;
+	}
+
+	.nav li:first-child {
+  		margin-top: 0;
+}
+
 }
 
